@@ -55,7 +55,9 @@ export default function Footer() {
               transition={{ delay: 0.4, duration: 0.6 }}
             >
               <motion.a 
-                href="#" 
+                href="https://www.facebook.com/share/197rnkxpp9/?mibextid=wwXIfr" 
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-gray-400 hover:text-true-north-red transition-colors"
                 whileHover={{ scale: 1.2, rotate: 5 }}
                 whileTap={{ scale: 0.9 }}
